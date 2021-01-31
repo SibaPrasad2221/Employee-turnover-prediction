@@ -11,20 +11,19 @@ This web app help you to predict whether a particular employee turnover the comp
 
 
 # Folder structure during deployment
-'''
-
+```
 ├── static 
-│   ├── css
+│   ├── css
 ├── template
-│   ├── home.html
+│   ├── home.html
 ├── Procfile
 ├── README.md
 ├── app.py
 ├── employee_turnover_prediction.ipynb
 ├── turnover_prediction.pckl
 ├── requirements.txt
+```
 
-'''
  # Technologies used
  
 ![](https://forthebadge.com/images/badges/made-with-python.svg)
