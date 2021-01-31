@@ -13,13 +13,21 @@ This web app help you to predict whether a particular employee turnover the comp
 #Folder structure during deployment
 
 ├── static 
+
 │   ├── css
+
 ├── template
+
 │   ├── home.html
+
 ├── Procfile
+
 ├── README.md
+
 ├── app.py
+
 ├── employee_turnover_prediction.ipynb
+
 ├── turnover_prediction.pckl
 ├── requirements.txt
 h
